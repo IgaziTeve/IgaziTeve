@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IgaziTeve
+- 👋 Hi, I’m @Mihály
 - 👀 I’m interested in python, html, javascript, c#
 - 🌱 I’m currently learning html, css, javascript, c#
 - 💞️ I’m looking to collaborate on ...
